@@ -17,8 +17,13 @@ Esse projeto é ideal para a evolução nos estudos de Inteligencia artificial e
 
 ---
 
-## 🚀 Como executar
+##  Como executar
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/SEU-USUARIO/chatbot-suporte.git
+
+Quer contribuir?
+Abra uma issue ou envie um pull request com melhorias!
+
+Ronaldo Monteiro
